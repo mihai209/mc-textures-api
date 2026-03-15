@@ -1,0 +1,2 @@
+this api can take a while as i have to manually browse mods and unarchive so i can take their textures of blocks/items then find a way to put them on a list, maybe
+xml or json and then eh...do again the same steps for new mods, or when is requested on PR or on discord
